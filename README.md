@@ -6,3 +6,8 @@
 （4）在输入框中输入要发送的文字，点击发送按钮，界面上就会显示出刚才发送出的文字。<br>
 （5）如果现在打开另一个客户端，连接上之后发出不同的文字，在第一个客户端中会显示出第二个客户端发出的内容。<br>
 （6）这样就实现了一个基本的多人聊天室的功能。<br>
+<br>
+<br>
+![image](https://github.com/ZhaoYukai/SocketCommunication_Client/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
+<br>
+<br>
